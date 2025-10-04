@@ -5,7 +5,7 @@
 This project aims to glean insights on the individual pitching performances of the New York Yankees and Boston Red Sox during the 2024 regular season. At a high level, both teams went in opposite directions overall, with the Yankees winning the American League (AL) East, their third in the past five seasons, and the Red Sox finishing at 81-81 and not making the playoffs. This project breaks down each pitcher that has pitched for each team with filters that allow users to analyze pitch outcomes by pitch type, pitch speed, and batter-pitcher handedness matchups.
 
 ## Video Walkthrough
-The following link demonstrates the dashboard in action, as posted on my Instagram account dedicated for scorecards: 
+The following link demonstrates the dashboard in action, as posted on my Instagram account dedicated for scorecards: https://www.youtube.com/watch?v=3wbxCXq_i8I
 
 ## Features
 - Interactive filters for pitch type, pitch velocity, and handedness matchups
@@ -23,4 +23,6 @@ The following link demonstrates the dashboard in action, as posted on my Instagr
 - Plotly Dash for interactive dashboarding
 
 ## How to Run
-- 
+1. Download all py files and csv files
+2. Run the mlb_explorer.py file (some file paths may need to be changed for this to work)
+3. A window should pop up on your default web browser with the interactive dashboard
