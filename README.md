@@ -29,3 +29,6 @@ A poster slide summarizing data wrangling and findings can also be found in this
 1. Download all py files and csv files
 2. Run the mlb_explorer.py file (some file paths may need to be changed for this to work)
 3. A window should pop up on your default web browser with the interactive dashboard
+
+## Acknowledgements
+Special thanks to Liam Miller for collaborating on this project with me and providing meaningful guidance along the way in part for our class project 
