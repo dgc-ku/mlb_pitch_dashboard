@@ -8,7 +8,7 @@ This project aims to glean insights on the individual pitching performances of t
 The following link demonstrates the dashboard in action, as posted on my Instagram account dedicated for scorecards: https://www.youtube.com/watch?v=3wbxCXq_i8I
 
 A poster slide summarizing data wrangling and findings can also be found below:
-<img src="Liam Miller and Daniel Ku - Poster Slide.png" alt='image' width='500' height='350'>
+<img src="Liam Miller and Daniel Ku - Poster Slide.png" alt='image' width='1000' height='600'>
 
 
 ## Features
